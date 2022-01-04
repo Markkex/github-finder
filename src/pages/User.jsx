@@ -51,7 +51,7 @@ const User = () => {
           <div className="custom-card-image mb-6 md:mb-0">
             <div className="roiunder-lg shadow-xl card image-full">
               <figure>
-                <img src={avatar_url} alt="image" />
+                <img src={avatar_url} alt="avatar" />
               </figure>
               <div className="card-body justify-end">
                 <h2 className="card-title mb-0">{name}</h2>
